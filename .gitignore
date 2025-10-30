@@ -1,0 +1,4 @@
+build*
+.vscode
+pyocr/__pycache__
+models
